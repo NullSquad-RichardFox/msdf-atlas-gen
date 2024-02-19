@@ -1,0 +1,14 @@
+# Binaries
+**/Binaries
+**/Intermediate
+
+# Visual Studio files
+/.vs
+*.sln
+*.vcxproj
+*.vcxproj.*
+
+# Visual Studio Code files
+**/.vscode
+Makefile
+*.code-workspace
